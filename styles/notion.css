@@ -53,8 +53,8 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
-  white-space: unset;
+  font-size: 1em;
+  white-space: pre-wrap;
   font-weight: 300;
   font-family: Inter;
 }
