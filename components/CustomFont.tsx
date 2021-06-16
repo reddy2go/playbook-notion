@@ -25,7 +25,7 @@ export const CustomFont: React.FC<{ site: types.Site }> = ({ site }) => {
           .notion.notion-app {
             font-family: ${cssFontFamilies}, -apple-system, BlinkMacSystemFont,
               'Segoe UI', Helvetica, 'Apple Color Emoji', Arial, sans-serif,
-              'Segoe UI Emoji', 'Segoe UI Symbol';
+              'Segoe UI Emoji', 'Segoe UI Symbol','Inter';
           }
         `}</style>
       </Head>
