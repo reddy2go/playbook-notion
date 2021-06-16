@@ -10,5 +10,15 @@ module.exports = withBundleAnalyzer({
   },
   future: {
     webpack5: true
+  },
+  async redirects() {
+    return [
+      {
+        source: '/old-love-is-all-we-need',
+        destination: '/love-is-all-we-need',
+        permanent: true,
+      },
+    ]
   }
 })
+}
