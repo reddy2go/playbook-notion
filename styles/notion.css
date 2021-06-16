@@ -168,10 +168,13 @@
 }
 
 .notion-title {
-  display: block;
   text-align: left;
   font-weight: 900;
   font-family: Inter;
+  width: 100%;
+  font-size: 4em;
+  margin-bottom: 20px;
+  line-height: 1.2;
 }
 
 .notion-collection-column-title {
