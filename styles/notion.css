@@ -330,7 +330,6 @@ img.notion-page-icon, svg.notion-page-icon {
 }
 
 /*dark mode*/
-.dark-mode .notion-red_background,
 .dark-mode .notion-pink_background,
 .dark-mode .notion-blue_background,
 .dark-mode .notion-purple_background,
@@ -357,4 +356,28 @@ img.notion-page-icon, svg.notion-page-icon {
 
 .dark-mode .notion-title{
   color: rgb(255,255,255);
+}
+
+.dark-mode .notion-hr{
+  border-color: rgb(240,106,20);
+}
+
+.dark-mode .notion-red_background{
+  background: rgb(240,106,20);
+}
+
+.dark-mode .notion-collection-card-body {
+  background: rgb(24,24,24);
+}
+
+.dark-mode .notion-h1 {
+  color : rgb(255,255,255)
+}
+
+.dark-mode .notion-h2 {
+  color : rgb(232,232,232)
+}
+
+.dark-mode .notion-h3 {
+  color : rgb(133,132,130)
 }
