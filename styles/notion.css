@@ -62,7 +62,7 @@ notion-page{
     color: var(--fg-color-icon);
 }
 
-.notion-column > .notion-text > .notion-link {
+a[target="_blank"] .notion-link {
   padding: 10px;
   align-items: center;
   width: 100%;
