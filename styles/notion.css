@@ -302,3 +302,7 @@ img.notion-page-icon, svg.notion-page-icon {
     flex: 1;
     justify-content: space-between;
 }
+
+.styles_settings__1ed8a{
+  visibility : hidden;
+}
