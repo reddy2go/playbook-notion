@@ -352,6 +352,7 @@ img.notion-page-icon, svg.notion-page-icon {
 
 .dark-mode .notion{
   background: rgb(36,36,36);
+  color: rgb(238,238,238);
 }
 
 .dark-mode .notion-title{
