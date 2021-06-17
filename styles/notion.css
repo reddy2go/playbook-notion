@@ -267,7 +267,6 @@ img.notion-page-icon, svg.notion-page-icon {
 
 .notion-toggle {
     padding: 3px 2px;
-    display:none;
 }
 
 .notion-gray_background {
@@ -303,6 +302,7 @@ img.notion-page-icon, svg.notion-page-icon {
     justify-content: space-between;
 }
 
-.styles_settings__1ed8a{
+/*removing dark mode*/
+/*.styles_settings__1ed8a{
   visibility : hidden;
-}
+}*/
