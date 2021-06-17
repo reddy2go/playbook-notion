@@ -62,7 +62,7 @@ notion-page{
     color: var(--fg-color-icon);
 }
 
-a[target="_blank"] .notion-link {
+a[target="_blank"] {
   padding: 10px;
   align-items: center;
   width: 100%;
@@ -80,7 +80,7 @@ a[target="_blank"] .notion-link {
   font-weight:600;
 }
 
-a[href="/blog"] .notion-link {
+a[href="/blog"] {
     padding: 10px;
     display: inline-flex;
     align-items: center;
