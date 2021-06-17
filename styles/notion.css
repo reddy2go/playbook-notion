@@ -80,7 +80,7 @@ a[target="_blank"] .notion-link {
   font-weight:600;
 }
 
-.notion-link {
+a[href="/blog"] .notion-link {
     padding: 10px;
     display: inline-flex;
     align-items: center;
