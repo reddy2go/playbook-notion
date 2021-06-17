@@ -12,4 +12,3 @@ module.exports = withBundleAnalyzer({
     webpack5: true
   }
 })
-}
