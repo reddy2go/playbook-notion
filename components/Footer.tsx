@@ -26,8 +26,7 @@ export const Footer: React.FC<{
 
   return (
     <footer className={styles.footer}>
-      <iframe src="https://tally.so/embed/w47ZA3?hideTitle=1&alignLeft=1&transparentBackground=1" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0" title="Enter email"></iframe>
-      <br/>
+      hello world
       <div className={styles.copyright}>Copyright 2021 {config.author}</div>
 
       {hasMounted ? (
