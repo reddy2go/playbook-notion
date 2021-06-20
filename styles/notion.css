@@ -351,34 +351,34 @@ img.notion-page-icon, svg.notion-page-icon {
 }
 
 .dark-mode .notion{
-  background: rgb(36,36,36);
-  color: rgb(238,238,238);
+  background: #242424;
+  color: #EEEEEE;
 }
 
 .dark-mode .notion-title{
-  color: rgb(255,255,255);
+  color: #FFFFFF;
 }
 
 .dark-mode .notion-hr{
-  border-color: rgb(240,106,20);
+  border-color: #F06A14;
 }
 
 .dark-mode .notion-red_background{
-  background: rgb(240,106,20);
+  background: #F06A14;
 }
 
 .dark-mode .notion-collection-card-body {
-  background: rgb(24,24,24);
+  background: #181818
 }
 
 .dark-mode .notion-h1 {
-  color : rgb(255,255,255)
+  color : #FFFFFF
 }
 
 .dark-mode .notion-h2 {
-  color : rgb(232,232,232)
+  color : #E8E8E8
 }
 
 .dark-mode .notion-h3 {
-  color : rgb(133,132,130)
+  color : #858482
 }
