@@ -26,10 +26,6 @@ export const Footer: React.FC<{
 
   return (
     <footer className={styles.footer}>
-      <head>
-      <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="1af648c5-3919-4621-8044-2540e2df76e6";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-      </head>
-
       <div className={styles.copyright}>Copyright 2021 {config.author}</div>
 
       {hasMounted ? (
