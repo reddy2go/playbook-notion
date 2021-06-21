@@ -332,6 +332,8 @@ img.notion-page-icon, svg.notion-page-icon {
 .notion-row{
     border: 2px solid;
     margin: 5px;
+    border-color : #F06A14;
+    border-radius: 6px;
 }
 
 /*dark mode*/
