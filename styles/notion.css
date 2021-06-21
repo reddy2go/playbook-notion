@@ -330,7 +330,7 @@ img.notion-page-icon, svg.notion-page-icon {
 }
 
 ..notion-bookmark{
-    border: 2px solid;
+    border: 2px solid !important;
     margin: 5px;
     border-color : #F06A14;
     border-radius: 6px;
