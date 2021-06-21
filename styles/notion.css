@@ -329,6 +329,11 @@ img.notion-page-icon, svg.notion-page-icon {
   display : none;
 }
 
+.notion-row{
+    border: 2px solid;
+    margin: 5px;
+}
+
 /*dark mode*/
 .dark-mode .notion-pink_background,
 .dark-mode .notion-blue_background,
