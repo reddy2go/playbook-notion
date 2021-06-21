@@ -80,6 +80,13 @@ a[target="_blank"] {
   font-weight:600;
 }
 
+.notion-bookmark{
+    border: 2px solid !important;
+    margin: 5px;
+    border-color : #F06A14;
+    border-radius: 6px;
+}
+
 a[href="/blog"] {
     padding: 10px;
     display: inline-flex;
@@ -327,13 +334,6 @@ img.notion-page-icon, svg.notion-page-icon {
 
 .notion-block-0aad2f156a9c4997ba9c82a2dacba3f3 {
   display : none;
-}
-
-..notion-bookmark{
-    border: 2px solid !important;
-    margin: 5px;
-    border-color : #F06A14;
-    border-radius: 6px;
 }
 
 /*dark mode*/
