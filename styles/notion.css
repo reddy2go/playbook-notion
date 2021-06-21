@@ -329,12 +329,12 @@ img.notion-page-icon, svg.notion-page-icon {
   display : none;
 }
 
-.notion-row{
+/*.notion-row{
     border: 2px solid;
     margin: 5px;
     border-color : #F06A14;
     border-radius: 6px;
-}
+}*/
 
 /*dark mode*/
 .dark-mode .notion-pink_background,
