@@ -39,7 +39,7 @@ export default class MyDocument extends Document {
 
           <body>
             <script src='noflash.js' />
-            <script type='crisp.js'/>
+            <script defer data-domain="reddy2go.com" src="https://plausible.io/js/plausible.js"></script>
             <Main />
 
             <NextScript />

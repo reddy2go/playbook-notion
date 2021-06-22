@@ -11,6 +11,7 @@
   s.src="https://client.crisp.chat/l.js";
   s.async=1;
   d.getElementsByTagName("head")[0].appendChild(s);
+  
   /*(function prepareFrame() {
       var ifrm = document.createElement("iframe");
       ifrm.setAttribute("src", "https://nehafa3.substack.com/embed");
