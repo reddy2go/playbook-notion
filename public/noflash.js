@@ -4,6 +4,15 @@
 // This will help to prevent a flash if dark mode is the default.
 
 ;(function () {
+
+  window.$crisp=[];
+  window.CRISP_WEBSITE_ID="1af648c5-3919-4621-8044-2540e2df76e6";
+  d=document;
+  s=d.createElement("script");
+  s.src="https://client.crisp.chat/l.js";
+  s.async=1;
+  d.getElementsByTagName("head")[0].appendChild(s);
+    
   // Change these if you use something different in your hook.
   var storageKey = 'darkMode'
   var classNameDark = 'dark-mode'
