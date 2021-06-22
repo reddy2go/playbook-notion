@@ -12,7 +12,7 @@
   s.src="https://client.crisp.chat/l.js";
   s.async=1;
   d.getElementsByTagName("head")[0].appendChild(s);
-    
+  <iframe src="https://nehafa3.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
   // Change these if you use something different in your hook.
   var storageKey = 'darkMode'
   var classNameDark = 'dark-mode'
