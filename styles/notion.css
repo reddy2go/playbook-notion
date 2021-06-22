@@ -87,6 +87,10 @@ a[target="_blank"] {
     border-radius: 6px;
 }
 
+.notion-bookmark-image{
+    height:100%;
+}
+
 a[href="/blog"] {
     padding: 10px;
     display: inline-flex;
