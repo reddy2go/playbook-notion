@@ -100,7 +100,7 @@ a[href="/blog"] {
 .notion-bookmark{
     border: 2px solid !important;
     margin: 5px;
-    border-color : #F06A14;
+    border-color : #e03e3e;
     border-radius: 6px;
 }
 
@@ -369,11 +369,11 @@ img.notion-page-icon, svg.notion-page-icon {
 }
 
 .dark-mode .notion-hr{
-  border-color: #F06A14;
+  border-color: #e03e3e;
 }
 
 .dark-mode .notion-red_background{
-  background: #F06A14;
+  background: #e03e3e;
 }
 
 .dark-mode .notion-collection-card-body {
