@@ -43,9 +43,9 @@ module.exports = {
   // any pages defined here will override their default URL paths
   // example:
   //
-  // pageUrlOverrides: {
-  //   '/foo': '067dd719a912471ea9a3ac10710e7fdf',
+  pageUrlOverrides: {
+     '/lets-make-a-racket': '9e3b07d11bc046bebd62e92c9c5338c4'
   //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
-  // }
-  pageUrlOverrides: null
+   }
+  //pageUrlOverrides: null
 }
