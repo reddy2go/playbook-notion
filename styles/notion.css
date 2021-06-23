@@ -62,7 +62,7 @@ notion-page{
     color: var(--fg-color-icon);
 }
 
-a {
+a{
   align-items: center;
   width: 100%;
   border-radius: 0px;
