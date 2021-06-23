@@ -81,7 +81,6 @@ a[target="_blank"] {
 
 a[href="/blog"] {
     padding: 10px;
-    display: inline-flex;
     align-items: center;
     width: 100%;
     border-radius: 0px;
