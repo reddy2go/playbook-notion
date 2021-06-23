@@ -62,7 +62,7 @@ notion-page{
     color: var(--fg-color-icon);
 }
 
-a{
+a[target="_blank"] {
   align-items: center;
   width: 100%;
   border-radius: 0px;
@@ -77,6 +77,25 @@ a{
   text-decoration: inherit;
   border-bottom: 0px solid;
   font-weight:600;
+}
+
+a[href="/blog"] {
+    padding: 10px;
+    display: inline-flex;
+    align-items: center;
+    width: 100%;
+    border-radius: 0px;
+    border-width: 0px;
+    justify-content: center;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 4px 0;
+    border: 0px solid var(--fg-color-0);
+    opacity: 1;
+    word-break: break-word;
+    text-decoration: inherit;
+    border-bottom: 0px solid;
+    font-weight:600;
 }
 
 .notion-bookmark{
