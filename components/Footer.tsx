@@ -27,18 +27,8 @@ export const Footer: React.FC<{
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright 2021 {config.author}</div>
-      <div className={styles.twitter}>
-        {config.newsletter && (
-          <a
-            className={styles.newsletter}
-            href={`${config.newsletter}`}
-            title={`newsletter @${config.newsletter}`}
-            target='_blank'
-            rel='noopener noreferrer'
-          >
-            <FaTwitter />
-          </a>
-        )}
+      <div className={styles.newsletter}>
+        Sign Up
       </div>
       {hasMounted ? (
         <div className={styles.settings}>
