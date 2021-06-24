@@ -27,7 +27,7 @@ export const Footer: React.FC<{
   return (
     <footer className={styles.footer}>
       <div className={styles.copyright}>Copyright 2021 {config.author}</div>
-      <div className={styles.newsletter}>
+      <div className={styles.social}>
       {config.newsletter && (
           <a
             className={styles.newsletter}
