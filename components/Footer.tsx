@@ -1,5 +1,5 @@
 import * as React from 'react'
-import { FaTwitter, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaTwitter, FaGithub, FaLinkedin, FaMailBulk } from 'react-icons/fa'
 import { IoSunnyOutline, IoMoonSharp } from 'react-icons/io5'
 import * as config from 'lib/config'
 
@@ -30,13 +30,13 @@ export const Footer: React.FC<{
       <div className={styles.newsletter}>
       {config.newsletter && (
           <a
-            className={styles.twitter}
+            className={styles.newsletter}
             href={`${config.newsletter}`}
-            title={`Newsletter @${config.newsletter}`}
+            title={`newsletter @${config.author}`}
             target='_blank'
             rel='noopener noreferrer'
           >
-            <FaTwitter />
+            <FaMailBulk/>
           </a>
       )}
       </div>
