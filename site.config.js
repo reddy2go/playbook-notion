@@ -20,6 +20,7 @@ module.exports = {
   twitter: 'reddy2go',
   github: '',
   linkedin: '',
+  newsletter: 'https://playtime.reddy2go.com/'
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
