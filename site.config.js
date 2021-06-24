@@ -38,7 +38,7 @@ module.exports = {
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
   // variables specified in .env.example
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
@@ -46,7 +46,6 @@ module.exports = {
   //
   pageUrlOverrides: {
      '/lets-make-a-racket': '9e3b07d11bc046bebd62e92c9c5338c4'
-  //   '/bar': '0be6efce9daf42688f65c76b89f8eb27'
    }
   //pageUrlOverrides: null
 }
