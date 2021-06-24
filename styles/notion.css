@@ -320,7 +320,7 @@ img.notion-page-icon, svg.notion-page-icon {
 .notion-red_background {
     background-color: var(--notion-red);
     color: white;
-    border-radius:5px;
+    padding : 4px;
 }
 
 .notion-page-title-icon {
